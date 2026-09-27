@@ -1,4 +1,4 @@
-import GUNS from '../Data/guns.js'
+import GUNS from '../data/guns.js'
 import GunCard from '../components/GunCard.jsx'
 
 function Catalog() {
