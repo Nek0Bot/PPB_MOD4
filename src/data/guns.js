@@ -40,7 +40,7 @@ const GUNS = [
     type: 'Rifle',
     caliber: '.300 Winchester Magnum',
     price: 30000,
-    image: '/guns/WA 2000.png',
+    image: '/guns/WA2000.png',
     description:
       'A rare, bullpup sniper rifle. Only 176 were made, and it is a collector\'s dream. A short-stroke gas piston and a two-stage trigger make it a joy to shoot.',
   },
