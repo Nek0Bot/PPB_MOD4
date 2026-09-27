@@ -36,6 +36,15 @@ const GUNS = [
       'Light-recoiling, endlessly modular, and accurate well past the range most shooters can hold. The platform you can rebuild with one tool.',
   },
   {
+    name: 'WA 2000',
+    type: 'Rifle',
+    caliber: '.300 Winchester Magnum',
+    price: 30000,
+    image: '/guns/WA 2000.png',
+    description:
+      'A rare, bullpup sniper rifle. Only 176 were made, and it is a collector\'s dream. A short-stroke gas piston and a two-stage trigger make it a joy to shoot.',
+  },
+  {
     name: 'Desert Eagle',
     type: 'Pistol',
     caliber: '.50 AE',
