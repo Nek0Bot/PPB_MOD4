@@ -9,22 +9,13 @@ const GUNS = [
       'The duty pistol everything else is measured against. Polymer frame, 17-round magazine, striker-fired trigger. Safe, boring, and it always goes bang.',
   },
   {
-    name: 'AK-47',
+    name: 'AK-12',
     type: 'Rifle',
     caliber: '7.62mm',
     price: 899,
-    image: '/guns/rifle.svg',
+    image: '/guns/AK-12.png',
     description:
-      'Gas-operated, loose tolerances, and famously indifferent to mud. Seven decades of service and still the benchmark for a rifle that will not quit.',
-  },
-  {
-    name: 'Remington 870',
-    type: 'Shotgun',
-    caliber: '12 Gauge',
-    price: 449,
-    image: '/guns/shotgun.svg',
-    description:
-      'Pump-action workhorse. Five shells in the tube, a receiver that has taken more abuse than most trucks, and a sound that ends arguments.',
+      'The latest iteration of the Kalashnikov platform. A modernized AK with a folding stock, improved ergonomics, and a 30-round magazine. Reliable as ever.',
   },
   {
     name: 'AR-15',
@@ -48,19 +39,37 @@ const GUNS = [
     name: 'Desert Eagle',
     type: 'Pistol',
     caliber: '.50 AE',
-    price: 1599,
-    image: '/guns/pistol.svg',
+    price: 2599,
+    image: '/guns/Desert Eagle.png',
     description:
       'Gas-operated hand cannon. Three and a half pounds of chromed steel that fires a round most pistols would refuse. Subtle it is not.',
   },
   {
-    name: 'Mossberg 500',
-    type: 'Shotgun',
-    caliber: '12 Gauge',
-    price: 399,
-    image: '/guns/shotgun.svg',
+    name: 'M110 super SASS',
+    type: 'Rifle',
+    caliber: '7.62mm',
+    price: 4399,
+    image: '/guns/SASS.png',
     description:
-      'The other pump gun. Twin action bars, a simple safety on the tang, and a price that leaves money for ammunition.',
+      'a semi-automatic sniper system. A 20-round magazine, a free-floating barrel, and a bipod make it a long-range precision rifle. might be yandere',
+  },
+  {
+    name: 'Murasama',
+    type: 'Gun? Sword?',
+    caliber: '5.56mm',
+    price: 0,
+    image: '/guns/Murasama.jpg',
+    description:
+      'You deny your weapon its purpose Jack. Only for the worthy. Post Devourer of Gods',
+  },
+  {
+    name: 'Big iron',
+    type: 'Big iron',
+    caliber: '.500 S&W Magnum',
+    price: 6666,
+    image: '/guns/Big iron.jpg',
+    description:
+      'No one dared to ask his business, no one dared to make a slip. For the stranger there amongst them had a big iron on his hip. Big iron on his hip',
   },
 ]
 
