@@ -4,7 +4,7 @@ const GUNS = [
     type: 'Pistol',
     caliber: '9mm',
     price: 599,
-    image: '/guns/pistol.svg',
+    image: '/guns/Glock 17.png',
     description:
       'The duty pistol everything else is measured against. Polymer frame, 17-round magazine, striker-fired trigger. Safe, boring, and it always goes bang.',
   },
@@ -31,7 +31,7 @@ const GUNS = [
     type: 'Rifle',
     caliber: '5.56mm',
     price: 799,
-    image: '/guns/rifle.svg',
+    image: '/guns/AR 15.png',
     description:
       'Light-recoiling, endlessly modular, and accurate well past the range most shooters can hold. The platform you can rebuild with one tool.',
   },
